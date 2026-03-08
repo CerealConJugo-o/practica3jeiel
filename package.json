@@ -1,0 +1,9 @@
+{
+  "name": "practica3jeiel",
+  "version": "1.0.0",
+  "description": "Aplicacion PaaS Azure",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
